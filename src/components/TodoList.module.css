@@ -1,0 +1,15 @@
+.listContainer{
+    background-color: rgb(255, 255, 255);
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    margin: 0 auto;
+    margin-top: 20px;
+    width: 500px;
+    max-height: 400px;
+    
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    
+}
